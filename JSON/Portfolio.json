@@ -1,0 +1,57 @@
+[
+  {
+  "name": "Juego de la Memoria",
+  "descripcion": {
+    "es": "El juego consiste en encontrar la pareja de cada cartas que estan boca abajo, la dificultad puede ser elegida o puede ser al azar.",
+    "en": "El juego consiste en encontrar la pareja de cada cartas que estan boca abajo, la dificultad puede ser elegida o puede ser al azar."
+  },
+  "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+  "repositorio": "https://github.com/HoyosJuan/busca-pareja",
+  "link" : "http://cv.giulianaolmos.guixon.com/"
+  },
+  {
+  "name": "Blog Viajes",
+  "descripcion": {
+    "es": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
+    "en": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor"
+  },
+  "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+  "link": "http://cv.giulianaolmos.guixon.com/"
+  },
+  {
+  "name": "E-commerce Electrodomesticos",
+  "descripcion": {
+    "es": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
+    "en": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor"
+  },
+  "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+  "link": "http://cv.giulianaolmos.guixon.com/"
+  },
+  {
+  "name": "Tienda Cursos",
+  "descripcion": {
+    "es": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
+    "en": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor"
+  },
+  "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+  "link": "http://cv.giulianaolmos.guixon.com/"
+  },
+  {
+  "name": "To Do List",
+  "descripcion": {
+    "es": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
+    "en": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor"
+  },
+  "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+  "link": "http://cv.giulianaolmos.guixon.com/"
+  },
+  {
+  "name": "Blog Yoga y Budismo",
+  "descripcion": {
+    "es": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor",
+    "en": "Utilice HTML y CSS para trabajar con los estilos y hacer un CV bonito y pechochor"
+  },
+  "image": "https://i.ibb.co/ThFjyny/667e3492-0b16-4931-9946-fd6e39fdff6f.jpg",
+  "link": "http://cv.giulianaolmos.guixon.com/"
+  }
+]
