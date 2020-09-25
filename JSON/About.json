@@ -14,23 +14,28 @@
         "es": "Incrementando y reforzando mis conocimientos constantemente, leyendo blogs, realizando cursos (YouTube, Udemy). Hasta el dia de hoy aprendi y realice practicas con las siguientes tecnologias.",
         "en": "Increasing and reinforcing my knowledge constantly, reading blogs, taking courses (YouTube, Udemy). Until today I have learned and practiced with the following technologies."
       },
+      "intereses":{
+        "puno": " Soy un apasionado de la tecnología, enfocado en el desarrollo de aplicaciones especialmente con Javacript y su librería React . Siempre estoy en busca de retos profesionales, me gusta adquirir experiencia en proyectos a gran escala y posibilidades de mucho crecimiento.",
+        "pdos": "Soy una persona autodidacta, día a día dedico tiempo para aprender en diferentes plataformas digitales como Platzi, Udemy, Youtube, documentación… en fin, cualquier plataforma que me pueda aportar conocimiento para crecer profesionalmente"
+      }
+      ,
       "skills": [
-      ["HTML","../icons/html.svg"],
-      ["CSS","../icons/css.svg"],
-      ["Sass","../icons/sass.svg"],
-      ["Bootstrap","../icons/bootstrap.svg"],
-      ["Javascript","../icons/javascript.svg"],
-      ["jQuery","../icons/jquery.svg"],
-      ["ReactJS","../icons/reactjs.svg"],
-      ["NodeJs","../icons/nodejs.svg"],
-      ["Express","../icons/express.svg"],
-      ["MongoDB","../icons/mongodb.svg"],
-      ["PHP","../icons/php.svg"],
-      ["SQL","../icons/sql.svg"],
-      ["MySQL","../icons/mysql.svg"],
-      ["Git","../icons/git.svg"],
-      ["GitHub","../icons/github.svg"],
-      ["Bitbucket","../icons/bitbucket.svg"]
+      "HTML",
+      "CSS",
+      "Sass",
+      "Bootstrap",
+      "Javascript",
+      "jQuery",
+      "ReactJS",
+      "NodeJs",
+      "Express",
+      "MongoDB",
+      "PHP",
+      "SQL",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Bitbucket"
       ],
       "networks": {
         "linkedin": "https://www.linkedin.com/in/hoyos-juan/",
